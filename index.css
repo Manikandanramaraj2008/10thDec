@@ -1,0 +1,20 @@
+body{
+    background-color: rgb(235, 235, 114);
+}
+.fa{
+    color:green;
+}
+a{
+    border-bottom:1px solid blue;
+}
+.box-part{
+    background-color: white;
+    margin:20px 0px ;
+    padding: 30px 10px;
+    }
+    .text{
+        margin: 20px 0px;
+    }
+    .box{
+        padding: 20px 0px;
+    }
