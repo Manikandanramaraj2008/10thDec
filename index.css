@@ -6,11 +6,13 @@ body{
 }
 a{
     border-bottom:1px solid blue;
+    text-VerticalAlign:center;
 }
 .box-part{
     background-color: white;
     margin:20px 0px ;
     padding: 30px 10px;
+    height: 300px;
     }
     .text{
         margin: 20px 0px;
